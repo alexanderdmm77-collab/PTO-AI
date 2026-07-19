@@ -7,3 +7,4 @@ def root():
     return {
         "project": "ПТО.ИИ",
         "status": "Работает"
+    }
